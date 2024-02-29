@@ -26,6 +26,7 @@ home page html<br>
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="contact.html">Contact</a></li>
                 <li><a href="inform.html" id="informToggle">Inform Us</a></li>
+                <li><a href="join_us.html" id='join_us'>Join_us</a></li>
             </ul>
         </nav>
     </header>
